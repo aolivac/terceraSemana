@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_604d44a16d681860c25eeca7929ea07002e81efb.jar" />
+    </item>
+    <item
+        jar="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9887d41c0f8e1e93cd39f3c6c14410b472cc9d4c">
+        <dex dex="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_31e3ef0f0bb9932395946386d93e88c1dc50e202.jar" />
+    </item>
+    <item
+        jar="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="33f0bf6261dbf2c5faa11ad3d75e9599adf3e2c9">
+        <dex dex="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/pre-dexed/debug/instant-run_8b3ec4c01943a1db0df1c32e822f7a1b4ecc9928.jar" />
+    </item>
+    <item
+        jar="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_e3082ceb218652ddbe50ddb424a9fa4e251f9b24.jar" />
+    </item>
+    <item
+        jar="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_b5f5436f8b1b8096fa08dbacbba7507b2ecfce3e.jar" />
+    </item>
+    <item
+        jar="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_12a75480a38d59d109af9e4630c0cec5270b3108.jar" />
+    </item>
+    <item
+        jar="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_18d72b8f5e92249b73e89359712310a1c9385abf.jar" />
+    </item>
+    <item
+        jar="/home/dumper/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_4bb73d0834248e9da7902db5298a629e25bbc952.jar" />
+    </item>
+
+</items>
