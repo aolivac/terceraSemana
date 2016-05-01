@@ -76,12 +76,12 @@
         "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_time.xml"
-    },
-    {
         "merged": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",

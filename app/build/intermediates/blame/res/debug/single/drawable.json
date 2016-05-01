@@ -52,6 +52,10 @@
         "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/res/merged/debug/drawable/button_border.xml",
+        "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/src/main/res/drawable/button_border.xml"
+    },
+    {
         "merged": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
         "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_colored_material.xml"
     },

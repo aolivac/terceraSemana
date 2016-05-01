@@ -72,6 +72,10 @@
         "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
+        "merged": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/marc5.9.png",
+        "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/src/main/res/drawable-xxxhdpi/marc5.9.png"
+    },
+    {
         "merged": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png",
         "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },

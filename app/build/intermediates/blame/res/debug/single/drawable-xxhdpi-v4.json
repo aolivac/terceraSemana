@@ -64,6 +64,10 @@
         "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/marc5.9.png",
+        "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/src/main/res/drawable-xxhdpi/marc5.9.png"
+    },
+    {
         "merged": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/marc3.9.png",
         "source": "/mnt/garaje/homes/dumper/AndroidStudioProjects/MultiPantallas/app/src/main/res/drawable-xxhdpi/marc3.9.png"
     },
